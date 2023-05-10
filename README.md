@@ -3,12 +3,18 @@
 I am a Frontend developer with 2 years of work experience. My experience includes developing user interfaces, working with APIs, and optimizing performance. I am always open to learning and ready to take on new challenges in my work.
 </br>
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ## In my work, I use the following stack of technologies and tools:
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">  
+<img src="https://camo.githubusercontent.com/8552f38715af0ea9f364801b055f7a2448812b49075860983d53a81414349623/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4e6578742e6a7326636f6c6f723d303030303030266c6f676f3d4e6578742e6a73266c6f676f436f6c6f723d464646464646266c6162656c3d">
+<img src="https://camo.githubusercontent.com/3a2650b6854cb790e3af41a1cefa87df32efc07aad12d0c0f128a7fbc5998ac3/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d526564757826636f6c6f723d373634414243266c6f676f3d5265647578266c6f676f436f6c6f723d464646464646266c6162656c3d">
+<img src="https://camo.githubusercontent.com/8346f9edca4ec1f279f4f6521e80b958f1a59801ff036037d2b886aefed7b204/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d52656475782d5361676126636f6c6f723d393939393939266c6f676f3d52656475782d53616761266c6f676f436f6c6f723d464646464646266c6162656c3d">
+<img src="https://camo.githubusercontent.com/ed9428825aeaed8d8c99eb46d3c7d1c50ebd2d98e11aa7cea5a1f1ceaecda63e/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d52656163742b486f6f6b2b466f726d26636f6c6f723d454335393930266c6f676f3d52656163742b486f6f6b2b466f726d266c6f676f436f6c6f723d464646464646266c6162656c3d">
+<img src="https://camo.githubusercontent.com/9fe0ddca8c80fd49703246ca3b9a894ddfdc9c1c80f6ab5de92bbe91471dbab8/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4353533326636f6c6f723d313537324236266c6f676f3d43535333266c6f676f436f6c6f723d464646464646266c6162656c3d" >
+<img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">  <img src="https://camo.githubusercontent.com/029c025c6da46b2fa8f15a3fa00261b9045d7b2a87a9692d437ee27b511c6f63/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d466972656261736526636f6c6f723d323232323232266c6f676f3d4669726562617365266c6f676f436f6c6f723d464643413238266c6162656c3d" >
 </br>
 
 ## I'm always available
