@@ -1,4 +1,6 @@
-## ✋Hi, my name is Amangeldi. I am a Frontend developer with 2 years of work experience. My experience includes developing user interfaces, working with APIs, and optimizing performance. I am always open to learning and ready to take on new challenges in my work.
+## ✋Hi, my name is Amangeldi. </br>
+
+I am a Frontend developer with 2 years of work experience. My experience includes developing user interfaces, working with APIs, and optimizing performance. I am always open to learning and ready to take on new challenges in my work.
 </br>
 
 ## In my work, I use the following stack of technologies and tools:
