@@ -1,6 +1,6 @@
 ## ✋Hi, my name is Amangeldi. </br>
 
-I am a Frontend developer with 2 years of work experience. My experience includes developing user interfaces, working with APIs, and optimizing performance. I am always open to learning and ready to take on new challenges in my work.
+I am a Frontend developer with 4 years of work experience. My experience includes developing user interfaces, working with APIs, and optimizing performance. I am always open to learning and ready to take on new challenges in my work.
 </br>
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
